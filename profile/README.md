@@ -10,4 +10,4 @@ This organisation compiles internal git repositories related to projects develop
 | UNEEG | Seizure detection based on two-channel subgaleal recordings. |
 | WEAR | Code for analyses and papers related to the "*Wearables for Epilepsy And Research (WEAR) - International Study Group*". |
 
-![About BERG-Freiburg](Digital_Health_Night_Poster_v5.pdf "BERG-Freiburg")
+![About BERG-Freiburg](/profile/Digital_Health_Night_Poster_v5.pdf "BERG-Freiburg")
