@@ -1,6 +1,7 @@
 # Biosignals in Epilepsy Research Group Freiburg
 
-This organisation compiles internal git repositories related to projects developed at the **Biosignals in Epilepsy Research Group Freiburg**, part of the [Epilepsy Center, University Medical Center Freiburg](https://uniklinik-freiburg.de/epilepsy).
+This organisation compiles internal git repositories related to projects developed at the **Biosignals in Epilepsy Research Group Freiburg**, part of the [Epilepsy Center, University Medical Center Freiburg](https://uniklinik-freiburg.de/epilepsy). 
+You can find more about our work [here.](/profile/Digital_Health_Night_Poster_v5.pdf)
 
 ## Projects
 
@@ -10,4 +11,3 @@ This organisation compiles internal git repositories related to projects develop
 | UNEEG | Seizure detection based on two-channel subgaleal recordings. |
 | WEAR | Code for analyses and papers related to the "*Wearables for Epilepsy And Research (WEAR) - International Study Group*". |
 
-![About BERG-Freiburg](/profile/Digital_Health_Night_Poster_v5.pdf "BERG-Freiburg")
